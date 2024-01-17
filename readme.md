@@ -1,6 +1,6 @@
 ## Instalação
 Instruções para instalar e rodar o projeto localmente. Por exemplo:
-Clone o repositório: git clone https://github.com/Lucaslfd/api_gerenciamento_leads.git
+Clone o repositório: git clone https://github.com/Lucaslfd/api_gerenciamento.git
 Instale as dependências: pip install -r requirements.txt
 Rode o projeto: python app.py
 
